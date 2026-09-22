@@ -1,5 +1,5 @@
 [project]
-name = "pytorch-test"
+name = "nsight-profiling"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
